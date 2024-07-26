@@ -37,3 +37,9 @@ Each training and test example is assigned to one of the following labels:
 8 Bag
 
 9 Ankle boot
+
+# License:
+
+The copyright for Fashion-MNIST is held by Zalando SE. Fashion-MNIST is licensed under the MIT license.
+
+
